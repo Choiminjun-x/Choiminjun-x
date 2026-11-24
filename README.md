@@ -1,24 +1,23 @@
-## 👋 안녕하세요 iOS 개발자 최민준입니다! 
-### Introduce
-- iOS 개발에 대한 열정으로 묵묵히 사람들의 뒤에서 편리한 서비스를 제공하는 것에 보람을 느끼고 있습니다.
-- 누구나 이해할 수 있는 코드 구조 작성을 지향하며, 다양한 기술을 습득하여 더 효율적인 솔루션을 제공하고 있습니다.
-- 다양한 프로젝트 경험과 함께 쌓은 노하우를 토대로, 빠르게 변화하는 iOS 생태계에서 탁월한 성과를 이루기  위해 노력중입니다.
+## 안녕하세요, iOS 개발자 최민준입니다.
+
+코나아이에서 인천e음·경기지역화폐 등 지역화폐 앱과 코나카드를 개발하고 있습니다.
+인증과 카드 관련 기능을 개발·유지보수하며, iOS 프로젝트의 Git 운영도 담당하고 있습니다.
+
+### About
+
+운영 중인 앱의 구조를 개선하고, 반복되는 문제를 줄이는 데 관심이 있습니다.
+
+AI가 구현을 대신할수록 무엇을 왜 만들지 정하고 그 결과를 검증하는 일이 개발자에게 남는다고 봅니다.
+iOS 개발에 머무르지 않고 의도를 가지고 시스템을 설계하는 개발자가 되고 싶습니다.
+
+### Portfolio
+
+[포트폴리오 PDF](./최민준_포트폴리오_20261124.pdf)
 
 ### Experience
-- 코나아이 iOS 개발자(2022.01 ~)
-- 한성대학교 컴퓨터공학부(2016.02 ~ 2022.02)
 
-<!--
-**Choiminjun-x/Choiminjun-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 코나아이 · iOS Developer — 2022.01 ~ 현재
 
-Here are some ideas to get you started:
+### Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 한성대학교 · 컴퓨터공학부 학사 — 2022.02 졸업
